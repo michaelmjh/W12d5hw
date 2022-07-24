@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff41df12-7878-4c94-a619-4ae6a9e10707" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Airport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FlightManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/people/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/people/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/people/staff/CabinCrew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/people/staff/Pilot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/people/staff/Rank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/people/staff/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/plane/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/plane/PlaneType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestCabinCrew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestFlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestPassenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestPilot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestPlane.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CMH5Dq4lFVbmH0unWoYiHHBZka" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TestFlight">
+    <configuration name="TestCabinCrew" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCabinCrew" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFlight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestFlight" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFlight.testSetPlaneType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestFlight" />
+      <option name="METHOD_NAME" value="testSetPlaneType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPilot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPilot" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPlane" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPlane" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestFlight" />
+        <item itemvalue="JUnit.TestFlight.testSetPlaneType" />
+        <item itemvalue="JUnit.TestPlane" />
+        <item itemvalue="JUnit.TestCabinCrew" />
+        <item itemvalue="JUnit.TestPilot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff41df12-7878-4c94-a619-4ae6a9e10707" name="Changes" comment="" />
+      <created>1658605349988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658605349988</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
